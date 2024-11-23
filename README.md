@@ -1,5 +1,4 @@
 # ai4fmipa
-
 # Perancangan Workshop: "Menggunakan AI Tools untuk Menyediakan Presentation"
 
 ## 1. Pengenalan Workshop
@@ -18,11 +17,11 @@
 |------------------------------------|------------|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Sesi 1: Penerangan/Pengajaran**  | 10-15 min   | **Pengenalan AI Tools**       | - Kelebihan AI dalam membantu persiapan presentation.  <br> - Contoh AI Tools: ChatGPT, Canva, DALL·E, Beautiful.ai.                                                                                                                      |
 |                                    |            | **Elemen Penting dalam Storyboard** | - **Imej**: Gunakan grafik untuk meningkatkan visual.<br>- **Dialog**: Naratif atau teks untuk menyokong idea.<br>- **Jalan Cerita**: Struktur logik pembukaan, isi, dan penutup.                                                         |
-|                                    |            | **Cara Menggunakan AI Tools** | - **Teks & Skrip**: ChatGPT, Copy.ai.<br>- **Imej**: Canva, DALL·E, Adobe Firefly.<br>- **Penyusunan Slide**: Beautiful.ai, Google Slides AI, PowerPoint Designer.                                                                         |
-|                                    |            | **Tip Storyboard yang Efektif** | - Fokus pada audiens dan tema.<br>- Susunan logik: pembukaan, isi, dan penutup.<br>- Visual yang konsisten untuk menyokong mesej.                                                                                                         |
-| **Sesi 2: Aktiviti Kumpulan**      | 30 min      | **Tugas: Membuat Storyboard** | Setiap kumpulan menghasilkan storyboard lengkap dengan 5-7 slide yang meliputi imej, dialog, dan jalan cerita.                                                                                                                            |
-|                                    |            | **Langkah Aktiviti**          | - **5 Minit Pertama (Perancangan)**: Pilih tajuk dan susun jalan cerita. <br>- **15 Minit (Penyediaan)**: Kumpulan bekerja menggunakan AI Tools.<br>- **10 Minit Akhir (Semakan dan Pembentangan)**: Fasilitator menyemak storyboard, satu kumpulan membentangkan hasil. |
-|                                    |            | **Panduan Fasilitator**       | - Membantu memahami tugasan.<br>- Membimbing penggunaan AI Tools.<br>- Memberi maklum balas pada storyboard kumpulan.<br>- Pastikan kumpulan fokus pada hasil akhir.                                                                      |
+|                                    |            | **Cara Menggunakan AI Tools** | - **Teks & Skrip**: ChatGPT, Copy.ai.<br>- **Imej**: Canva, DALL·E, Adobe Firefly.<br>- **Penyusunan Slide**: Beautiful.ai, Google Slides AI, PowerPoint Designer.                                                                        |
+|                                    |            | **Tip Storyboard yang Efektif** | - Fokus pada audiens dan tema.<br>- Susunan logik: pembukaan, isi, dan penutup.<br>- Visual yang konsisten untuk menyokong mesej.                                                                                                                                                                |
+| **Sesi 2: Aktiviti Kumpulan**      | 30 min      | **Tugas: Membuat Storyboard** | Setiap kumpulan menghasilkan storyboard lengkap dengan 5-7 slide yang meliputi imej, dialog, dan jalan cerita.                                                                                                                                                                                     |
+|                                    |            | **Langkah Aktiviti**          | - **5 Minit Pertama (Perancangan)**: Pilih tajuk dan susun jalan cerita. <br>- **15 Minit (Penyediaan)**: Kumpulan bekerja menggunakan AI Tools.<br>- **10 Minit Akhir (Semakan dan Pembentangan)**: Fasilitator menyemak storyboard, satu kumpulan membentangkan hasil.                              |
+|                                    |            | **Panduan Fasilitator**       | - Membantu memahami tugasan.<br>- Membimbing penggunaan AI Tools.<br>- Memberi maklum balas pada storyboard kumpulan.<br>- Pastikan kumpulan fokus pada hasil akhir.                                                                                                                               |
 
 ---
 
@@ -80,7 +79,14 @@ Berikut adalah rubrik pemarkahan untuk menilai hasil kerja kumpulan dalam worksh
 
 ---
 
-## 7. Jadual Penilaian Juri
+## 7. Contoh Prompt Lengkap
+Berikut adalah contoh prompt yang boleh digunakan untuk membantu kumpulan menghasilkan storyboard:
+
+"Buatkan storyboard untuk tajuk 'Bagaimana Perubahan Iklim Memengaruhi Ekosistem?' yang mengandungi 5-7 slide. Setiap slide perlu memuatkan grafik yang menarik, teks dialog yang ringkas namun jelas, serta urutan jalan cerita yang logik. Mulakan dengan memperkenalkan konsep perubahan iklim, diikuti dengan kesannya terhadap ekosistem, dan akhirnya nyatakan solusi atau langkah-langkah untuk menangani kesan tersebut."
+
+---
+
+## 8. Jadual Penilaian Juri
 Jadual berikut disediakan untuk juri menilai hasil kerja semua kumpulan dengan memberikan markah berdasarkan kriteria yang telah ditetapkan.
 
 | **Nama Kumpulan** | **Kualiti Kandungan (1-4)** | **Kesesuaian Imej (1-4)** | **Koherensi Jalan Cerita (1-4)** | **Kreativiti (1-4)** | **Jumlah Markah (Total)** |
@@ -97,4 +103,6 @@ Jadual berikut disediakan untuk juri menilai hasil kerja semua kumpulan dengan m
 | Kumpulan 10       |                             |                           |                                  |                      |                           |
 
 Juri boleh menggunakan jadual ini untuk memberikan markah bagi setiap kriteria, dan jumlah markah boleh dikira untuk menentukan prestasi keseluruhan setiap kumpulan.
+
+
 
